@@ -19,6 +19,7 @@ public class UserServiceImpl implements IUserService {
 
     @Override
     public int insert(UserEntity user) {
+
         return 0;
     }
 }
